@@ -1,2 +1,2 @@
-# NeuroHub
-Webapka dla Nerki!
+# Discord Youtube bot
+Currently two  working bots
