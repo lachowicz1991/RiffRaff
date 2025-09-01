@@ -1,4 +1,4 @@
-import skaven
+import riffraff
 
 if __name__ == "__main__":
-    skaven.run_bot()
+    riffraff.run_bot()

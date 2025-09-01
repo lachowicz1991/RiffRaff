@@ -107,3 +107,5 @@ def run_bot():
         await ctx.send("Added to queue!")
 
     client.run(TOKEN)
+
+run_bot()
